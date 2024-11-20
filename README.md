@@ -72,11 +72,11 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Calculator" title="Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nelcostaa/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/nelcostaa/Calculator" title="Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nelcostaa/BankPOO" title="Bank POO"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=BankPOO&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/https://github.com/nelcostaa/Rock-Paper-Scissor" title="Rock-Paper-Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/nelcostaa/https://github.com/nelcostaa/Rock-Paper-Scissor" title="Rock-Paper-Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Rock-Paper-Scissor&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/nelcostaa/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
