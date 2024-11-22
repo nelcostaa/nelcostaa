@@ -6,10 +6,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="images/medium.png"> HackerRank</a></code>
-  <code><a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="images/goodreads.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="images/instagram.jpg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="images/medium.png"> Medium</a></code>
+  <code><a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="images/goodreads.png"> GoodReads</a></code>
+  <code><a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="images/instagram.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
