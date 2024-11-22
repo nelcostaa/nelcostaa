@@ -38,7 +38,7 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Neovim" height="25" src="images/neovim.png"></code>
+  <code><img title="Neovim" height="25" src="images/Neovim-mark.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
