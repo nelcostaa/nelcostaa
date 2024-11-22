@@ -1,4 +1,7 @@
+<!-- Fix visitor badge later
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nelcostaa.nelcostaa">
+-->
+
 
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Hey+There+%F0%9F%91%8B+;My+name+is+Nelson!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG"/>
@@ -76,13 +79,15 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nelcostaa/https://github.com/nelcostaa/Rock-Paper-Scissor" title="Rock-Paper-Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Rock-Paper-Scissor&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/nelcostaa/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/nelcostaa/Hangman" title="Hangman w/ Ruby"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Hangman&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<!-- Fix repositories later
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/nelcostaa/Hangman" title="Hangman"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/nelcostaa/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+-->
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
