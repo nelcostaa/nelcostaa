@@ -16,14 +16,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nelson, currently studying in Curitiba, Brazil.
+  My name is Nelson, and I'm a Computer Engineering graduate student at PUC-PR in Curitiba, Brazil.
   <br>
   <br>
-  🔬 I'm currently studying for my graduate at Pontificia University Catholica of Paraná, Department of Computer Engineering
+  About Me:
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 Passionate about coding and exploring new technologies with math.
   <br>
-  📚 I’m currently learning data science with python
+  📚 Currently diving into Data Science with Python.
   <br>
   💬 Ask me anything about from <a href="https://github.com/nelcostaa/nelcostaa/issues" title="Issues">Here</a>
   <br>
