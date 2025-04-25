@@ -74,12 +74,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Calculator" title="Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nelcostaa/BankPOO" title="Bank POO"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=BankPOO&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/nelcostaa/tastefinder" title="tastefinder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=tastefinder&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nelcostaa/ml-housing-predictor" title="ML Housing Predictor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=ml-housing-predictor&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/https://github.com/nelcostaa/Rock-Paper-Scissor" title="Rock-Paper-Scissor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Rock-Paper-Scissor&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/nelcostaa/Hangman" title="Hangman w/ Ruby"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Hangman&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/nelcostaa/digit-classifier" title="Digit Classifier"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=digit-classifier&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/nelcostaa/stock-analysis" title="Stock Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=stock-analysis&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <!-- Fix repositories later
 <br/><br/><br/><br/><br/><br/>
