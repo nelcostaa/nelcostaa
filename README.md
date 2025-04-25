@@ -49,7 +49,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-
 <div align="center">
   <!-- Streak-Stats badge (Vercel mirror) -->
   <a href="https://git.io/streak-stats" title="Streak Stats">
@@ -88,11 +87,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nelcostaa&theme=react-dark&bg_color=20232a&hide_border=true"
-       alt="Activity graph"
-       width="100%" />
+  <!-- Activity graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nelcostaa&theme=react-dark&bg_color=20232a&hide_border=true"
+    alt="Activity graph"
+    width="100%"
+  />
 </div>
-<hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
