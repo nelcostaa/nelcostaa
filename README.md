@@ -49,32 +49,28 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
+<!-- Badges side-by-side, centered as a group -->
+<p align="center">
   <!-- Streak-Stats badge (Vercel mirror) -->
   <a href="https://git.io/streak-stats" title="Streak Stats">
     <img
-      align="left"
       width="390"
       src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&border=61dafb&hide_border=true"
       alt="GitHub streak stats for nelcostaa"
     />
   </a>
-
   <!-- Overall GitHub stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img
-      align="right"
       width="390"
       src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
       alt="GitHub stats for nelcostaa"
     />
   </a>
-</div>
+</p>
 
-<br><br>
-
-<div align="center">
-  <!-- Top languages chart -->
+<!-- Top languages chart, centered -->
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
     <img
       height="200"
@@ -82,18 +78,17 @@
       alt="Top languages for nelcostaa"
     />
   </a>
-</div>
+</p>
 
-<br>
-
-<div align="center">
-  <!-- Activity graph -->
+<!-- Activity graph, centered -->
+<p align="center">
   <img
+    width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=nelcostaa&theme=react-dark&bg_color=20232a&hide_border=true"
     alt="Activity graph"
-    width="100%"
   />
-</div>
+</p>
+
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
