@@ -55,11 +55,11 @@
          alt="GitHub streak stats for nelcostaa"
          width="390" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub-Readme-Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-         alt="GitHub stats for nelcostaa"
-         width="390" />
-  </a>
+  <a href="https://git.io/streak-stats" title="Streak Stats">
+  <img align="left" width="390"
+       src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&border=61dafb&hide_border=true"
+       alt="GitHub streak stats for nelcostaa" />
+</a>
 </div>
 
 <br>
