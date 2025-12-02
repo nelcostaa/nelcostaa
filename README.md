@@ -1,105 +1,70 @@
-<div align="center">
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+SaaS+%26+AI+Agents;Python+%7C+React+%7C+AWS;Full+Stack+Developer" alt="Typing SVG"/>
+ </a>
+</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+%26+AI+Agent+Developer;Building+SaaS+Products;Python+%7C+React+%7C+AWS" alt="Typing SVG" />
-  </a>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+  <code><a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"> Medium</a></code>
+  <code><a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111401.png"> GoodReads</a></code>
+  <code><a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  I'm Nelson, a <strong>Software Engineer</strong> and Computer Engineering student at PUC-PR (Brazil).
+  <br>
+  I bridge the gap between <strong>Data Science</strong> and <strong>Full Stack Engineering</strong>. 
+  <br>
+  Currently focused on building scalable <strong>SaaS products</strong> and <strong>Autonomous AI Agents</strong>.
+  <br>
+  <br>
+  💻 <strong>Stack:</strong> Python (FastAPI), React, Node.js & Cloud Architecture.
+  <br>
+  🤖 <strong>Focus:</strong> AI Engineering, RAG Systems, and Agentic Workflows.
+  <br>
+  💬 Ask me anything <a href="https://github.com/nelcostaa/nelcostaa/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: nelcostaa@hotmail.com">nelcostaa@hotmail.com</a>
+</p>
 
-  <br />
-
-  <p>
-    <a href="https://www.linkedin.com/in/nelcostaa/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/nelcostaa">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="mailto:nelcostaa@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://medium.com/@nelcostaa2203">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-     &nbsp;
-    <a href="https://www.instagram.com/nelcostaa_/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-
-  <br />
-
-  <h3>Hi there, I'm Nelson! 👋</h3>
-  <p>
-    I am a <strong>Software Engineer</strong> and Computer Engineering student at PUC-PR (Brazil).
-    <br />
-    I bridge the gap between <strong>Data Science</strong> and <strong>Full Stack Engineering</strong>.
-    <br />
-    Currently focused on building scalable <strong>SaaS products</strong> and <strong>Autonomous AI Agents</strong>.
-  </p>
-  
-  <p>
-    🔭 <strong>I’m currently working on:</strong> AI Agents with LangGraph & FastAPI<br />
-    🌱 <strong>I’m currently learning:</strong> Advanced System Design & Microservices<br />
-    💬 <strong>Ask me about:</strong> Python, React, AWS, and RAG Systems
-  </p>
-
-  <br />
-
-  <h3>🛠️ Core Tech Stack 🛠️</h3>
+<hr>
+<h2 align="center">🔥 Tech Stack & Tools 🔥</h2>
+<br>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,django,postgres,redis,docker,aws,git,linux,tailwind,pytorch,tensorflow,vercel&perline=9" />
   </a>
+</p>
+<hr>
 
-  <br /><br />
+<h2 align="center">⚡ Stats ⚡</h2>
 
-  <h3>⚡ Engineering Stats ⚡</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F1F1F1&include_all_commits=true" height="180" alt="stats" />
-      </td>
-      <td align="center">
-        <img src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="streak" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="180" src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
+  </a>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcostaa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda,Jupyter%20Notebook&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="190" alt="languages" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nelcostaa&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF" width="100%" alt="activity graph" />
+<br>
 
-  <br /><br />
+<h2 align="center">🚀 Featured SaaS & AI Projects 🚀</h2>
 
-  <h3>🚀 Featured Projects 🚀</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/nelcostaa/Literattus">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Literattus&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&description_lines=2" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/nelcostaa/openai_chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=openai_chatbot&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&description_lines=2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/nelcostaa/Section21Validation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Section21Validation&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&description_lines=2" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/nelcostaa/cnn-anomaly-detection">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cnn-anomaly-detection&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&description_lines=2" />
-        </a>
-      </td>
-    </tr>
-  </table>
+### 🤖 AI Engineering & Agents
 
-</div>
+* **[Storytelling Agent (UK Client)](https://github.com/nelcostaa/openai_chatbot)** <br>
+  `LangGraph` `Claude` `FastAPI` `Redis` `Docker` <br>
+  > *Arquitetura agêntica completa com orquestração de narrativas complexas e memória persistente.*
+
+* **[CNN Anomaly Detection](https://github.com/nelcostaa/cnn-anomaly-detection)** <br>
+  `Python` `TensorFlow` `Deep Learning` `Pandas` <br>
+  > *Detecção de anomalias visuais e padrões em dados usando Redes Neurais Convolucionais.*
+
+### ☁️ SaaS & Full Stack
+
+* **[Literattus](https://github.com/nelcostaa/Literattus)** <br>
+  `React` `Django` `AWS RDS` `Google Books API` <br>
+  > *Plataforma SaaS de gestão literária com arquitetura híbrida e banco de dados relacional robusto.*
+
+* **[Automated Document SaaS](https://github.com/nelcostaa/Section21Validation)** <br>
+  `TypeScript` `React` `Tailwind` `PDF Generation` <br>
+  > *Sistema de automação de documentos jurídicos com renderização dinâmica e alta performance.*
