@@ -5,10 +5,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"> Medium</a></code>
-  <code><a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111401.png"> GoodReads</a></code>
-  <code><a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"> Instagram</a></code>
+  <a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> &nbsp;
+  <a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"></a> &nbsp;
+  <a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111401.png"></a> &nbsp;
+  <a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
 </h5>
 
 <br>
@@ -41,61 +41,48 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align="center">
-  <a href="https://git.io/streak-stats" title="Streak Stats">
-    <img
-      width="390"
-      src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&border=61dafb&hide_border=true"
-      alt="GitHub streak stats for nelcostaa"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
-    <img
-      width="390"
-      src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true"
-      alt="GitHub stats for nelcostaa"
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&border=61dafb&hide_border=true" alt="streak stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" alt="readme stats" height="180" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-    <img
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcostaa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda,Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb"
-      alt="Top languages for nelcostaa"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nelcostaa&theme=react-dark&bg_color=20232a&hide_border=true"
-    alt="Activity graph"
-  />
-</p>
-
-
-<h2 align="center">🚀 Featured Projects 🚀</h2>
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Literattus" title="Literattus SaaS">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Literattus&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
-  </a>
-  <a align="right" href="https://github.com/nelcostaa/openai_chatbot" title="AI Chatbot Agent">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=openai_chatbot&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcostaa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda,Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb" alt="top langs" height="220" />
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Section21Validation" title="PDF Automation SaaS">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Section21Validation&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
-  </a>
-  <a align="right" href="https://github.com/nelcostaa/cnn-anomaly-detection" title="Deep Learning CNN">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cnn-anomaly-detection&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
-  </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nelcostaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </div>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/nelcostaa/Literattus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Literattus&theme=react&border_color=61dafb&border_radius=10&description_lines=2" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/nelcostaa/openai_chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=openai_chatbot&theme=react&border_color=61dafb&border_radius=10&description_lines=2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/nelcostaa/Section21Validation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Section21Validation&theme=react&border_color=61dafb&border_radius=10&description_lines=2" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/nelcostaa/cnn-anomaly-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cnn-anomaly-detection&theme=react&border_color=61dafb&border_radius=10&description_lines=2" />
+      </a>
+    </td>
+  </tr>
+</table>
