@@ -1,57 +1,47 @@
-<!-- Fix visitor badge later
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nelcostaa.nelcostaa">
--->
-
-
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Hey+There+%F0%9F%91%8B+;My+name+is+Nelson!;Nice+to+meet+you+%F0%9F%98%8A" alt="Typing SVG"/>
- </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Full+Stack+Developer;Building+SaaS+%26+Agents;Python+%7C+React+%7C+AWS" alt="Typing SVG"/>
+  </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="images/medium.png"> Medium</a></code>
-  <code><a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="images/goodreads.png"> GoodReads</a></code>
-  <code><a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="images/instagram.png"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+  <code><a href="https://medium.com/@nelcostaa2203" title="Medium Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"> Medium</a></code>
+  <code><a href="https://www.goodreads.com/user/show/180288314-nelson-costa" title="GoodReads"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111401.png"> GoodReads</a></code>
+  <code><a href="https://www.instagram.com/nelcostaa_/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"> Instagram</a></code>
 </h5>
+
 <br>
+
 <p align="center">
-  My name is Nelson, and I'm a Computer Engineering graduate student at PUC-PR in Curitiba, Brazil.
+  I'm Nelson, a <strong>Software Engineer</strong> and Computer Engineering student at PUC-PR (Brazil).
+  <br><br>
+  I bridge the gap between <strong>Data Science</strong> and <strong>Full Stack Engineering</strong>. 
   <br>
+  Currently focused on building scalable <strong>SaaS products</strong> and <strong>Autonomous AI Agents</strong>.
+  <br><br>
+  💻 <strong>Stack:</strong> Python (FastAPI), React, Node.js & Cloud Architecture.
   <br>
-  About Me:
+  🤖 <strong>Focus:</strong> AI Engineering, RAG Systems, and Agentic Workflows.
   <br>
-  💻 Passionate about coding and exploring new technologies with math.
-  <br>
-  📚 Currently diving into Data Science with Python.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/nelcostaa/nelcostaa/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: nelcostaa@hotmail.com">nelcostaa@hotmail.com</a>
+  📫 <strong>Contact:</strong> <a href="mailto:nelcostaa@hotmail.com">nelcostaa@hotmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
+
+<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Neovim" height="25" src="images/Neovim-mark.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.png"></code>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,fastapi,django,postgres,redis,docker,aws,git,linux,tailwind,pytorch,tensorflow&perline=8" />
+  </a>
 </p>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<!-- Badges side-by-side, centered as a group -->
 <p align="center">
-  <!-- Streak-Stats badge (Vercel mirror) -->
   <a href="https://git.io/streak-stats" title="Streak Stats">
     <img
       width="390"
@@ -59,28 +49,25 @@
       alt="GitHub streak stats for nelcostaa"
     />
   </a>
-  <!-- Overall GitHub stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img
       width="390"
-      src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=nelcostaa&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true"
       alt="GitHub stats for nelcostaa"
     />
   </a>
 </p>
 
-<!-- Top languages chart, centered -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
     <img
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcostaa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcostaa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda,Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb"
       alt="Top languages for nelcostaa"
     />
   </a>
 </p>
 
-<!-- Activity graph, centered -->
 <p align="center">
   <img
     width="100%"
@@ -90,25 +77,25 @@
 </p>
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/tastefinder" title="tastefinder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=tastefinder&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nelcostaa/ml-housing-predictor" title="ML Housing Predictor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=ml-housing-predictor&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/digit-classifier" title="Digit Classifier"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=digit-classifier&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/nelcostaa/stock-analysis" title="Stock Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=stock-analysis&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<!-- Fix repositories later
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Hangman" title="Hangman"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/nelcostaa/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
--->
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/nelcostaa?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/nelcostaa/Literattus" title="Literattus SaaS">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Literattus&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
+  </a>
+  <a align="right" href="https://github.com/nelcostaa/openai_chatbot" title="AI Chatbot Agent">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=openai_chatbot&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/nelcostaa/Section21Validation" title="PDF Automation SaaS">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Section21Validation&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
+  </a>
+  <a align="right" href="https://github.com/nelcostaa/cnn-anomaly-detection" title="Deep Learning CNN">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cnn-anomaly-detection&theme=react&border_color=61dafb&border_radius=10&description_lines=2">
+  </a>
+</div>
