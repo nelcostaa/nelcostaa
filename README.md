@@ -76,15 +76,36 @@
 </p>
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+ <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Literattus" title="Literattus SaaS"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Literattus&theme=react&border_color=61dafb&border_radius=10&description_lines=2"></a>
-  <a align="right" href="https://github.com/nelcostaa/openai_chatbot" title="AI Chatbot Agent"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=openai_chatbot&theme=react&border_color=61dafb&border_radius=10&description_lines=2"></a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/nelcostaa/Section21Validation" title="PDF Automation SaaS"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=Section21Validation&theme=react&border_color=61dafb&border_radius=10&description_lines=2"></a>
-  <a align="right" href="https://github.com/nelcostaa/cnn-anomaly-detection" title="Deep Learning CNN"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cnn-anomaly-detection&theme=react&border_color=61dafb&border_radius=10&description_lines=2"></a>
+
+  <a align="left" href="https://github.com/nelcostaa/tastefinder" title="tastefinder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=tastefinder&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nelcostaa/ml-housing-predictor" title="ML Housing Predictor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=ml-housing-predictor&theme=react&border_color=61dafb&border_radius=10"></a>
+
 </div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+
+  <a align="left" href="https://github.com/nelcostaa/digit-classifier" title="Digit Classifier"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=digit-classifier&theme=react&border_color=61dafb&border_radius=10"></a>
+
+  <a align="right" href="https://github.com/nelcostaa/stock-analysis" title="Stock Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=stock-analysis&theme=react&border_color=61dafb&border_radius=10"></a>
+
+</div>
+
+<!-- Fix repositories later
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+
+  <a align="left" href="https://github.com/nelcostaa/Hangman" title="Hangman"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+
+  <a align="right" href="https://github.com/nelcostaa/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nelcostaa&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+
+</div> 
+
+-->
