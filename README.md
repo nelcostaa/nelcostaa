@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height="180" src="https://git-hub-streak-stats.vercel.app?user=nelcostaa&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
+    <img height="180" src="https://streak-stats.demolab.com?user=nelcostaa&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
   </a>
 </p>
 
