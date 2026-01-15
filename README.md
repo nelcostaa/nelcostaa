@@ -40,9 +40,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=nelcostaa&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-ten.vercel.app?user=nelcostaa&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <br>
