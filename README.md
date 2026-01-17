@@ -65,4 +65,4 @@
 
 * **[Automated Document SaaS](https://github.com/nelcostaa/Section21Validation)** <br>
   `TypeScript` `React` `Tailwind` `PDF Generation` <br>
-  > *Sistema de automação de documentos jurídicos com renderização dinâmica e alta performance.*
+  > *Sistema de automação de documentos jurídicos com renderização dinâmica.*
