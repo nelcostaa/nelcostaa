@@ -43,6 +43,11 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-ten.vercel.app?user=nelcostaa&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
+<p>
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+</p>
+
+
 <br>
 
 <h2 align="center">🚀 Featured SaaS & AI Projects 🚀</h2>
