@@ -1,7 +1,12 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+SaaS+%26+AI+Agents;Python+%7C+React+%7C+AWS;Full+Stack+Developer" alt="Typing SVG"/>
- </a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=3000&amp;pause=1500&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer.+Allegedly.;Python+by+choice.+JavaScript+by+necessity.;Building+SaaS.+Collecting+side+quests.;Automating+myself+out+of+a+job.;It+works+on+my+machine.+Ship+the+machine.;TODO%3A+write+a+better+bio."
+      alt="Software engineer building SaaS and collecting side quests"
+    />
+  </a>
 </h1>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/nelcostaa/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
 </h5>
